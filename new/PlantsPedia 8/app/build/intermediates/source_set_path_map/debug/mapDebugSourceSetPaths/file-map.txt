@@ -1,0 +1,7 @@
+com.example.plantspedia.app-pngs-0 /Users/aaryamdev1/Downloads/PlantsPedia 8/app/build/generated/res/pngs/debug
+com.example.plantspedia.app-resValues-1 /Users/aaryamdev1/Downloads/PlantsPedia 8/app/build/generated/res/resValues/debug
+com.example.plantspedia.app-packageDebugResources-2 /Users/aaryamdev1/Downloads/PlantsPedia 8/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.plantspedia.app-packageDebugResources-3 /Users/aaryamdev1/Downloads/PlantsPedia 8/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.plantspedia.app-debug-4 /Users/aaryamdev1/Downloads/PlantsPedia 8/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.plantspedia.app-debug-5 /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/debug/res
+com.example.plantspedia.app-main-6 /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/res

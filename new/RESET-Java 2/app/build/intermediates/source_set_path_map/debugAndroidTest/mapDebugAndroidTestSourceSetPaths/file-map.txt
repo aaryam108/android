@@ -1,0 +1,4 @@
+com.reset.breathe.test.app-androidTest-0 /Users/aaryamdev1/Downloads/RESET-Java 2/app/build/generated/res/resValues/androidTest/debug
+com.reset.breathe.test.app-mergeDebugAndroidTestResources-1 /Users/aaryamdev1/Downloads/RESET-Java 2/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.reset.breathe.test.app-mergeDebugAndroidTestResources-2 /Users/aaryamdev1/Downloads/RESET-Java 2/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.reset.breathe.test.app-debugAndroidTest-3 /Users/aaryamdev1/Downloads/RESET-Java 2/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

@@ -1,0 +1,4 @@
+#Tue Nov 10 23:59:15 IST 2026
+base.0=/Users/aaryamdev1/Downloads/PlantsPedia 8/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

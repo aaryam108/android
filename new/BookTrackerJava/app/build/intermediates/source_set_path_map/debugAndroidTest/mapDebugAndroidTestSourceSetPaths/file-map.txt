@@ -1,0 +1,4 @@
+com.example.booktracker.test.app-androidTest-0 /Users/aaryamdev1/Downloads/BookTrackerJava/app/build/generated/res/resValues/androidTest/debug
+com.example.booktracker.test.app-mergeDebugAndroidTestResources-1 /Users/aaryamdev1/Downloads/BookTrackerJava/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.booktracker.test.app-mergeDebugAndroidTestResources-2 /Users/aaryamdev1/Downloads/BookTrackerJava/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.booktracker.test.app-debugAndroidTest-3 /Users/aaryamdev1/Downloads/BookTrackerJava/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

@@ -1,0 +1,5 @@
+com.example.todo.test.app-updated_navigation_xml-0 /Users/aaryamdev1/AndroidStudioProjects/todo/app/build/generated/updated_navigation_xml/debugAndroidTest
+com.example.todo.test.app-packageDebugAndroidTestResources-1 /Users/aaryamdev1/AndroidStudioProjects/todo/app/build/intermediates/incremental/debugAndroidTest/packageDebugAndroidTestResources/merged.dir
+com.example.todo.test.app-packageDebugAndroidTestResources-2 /Users/aaryamdev1/AndroidStudioProjects/todo/app/build/intermediates/incremental/debugAndroidTest/packageDebugAndroidTestResources/stripped.dir
+com.example.todo.test.app-debugAndroidTest-3 /Users/aaryamdev1/AndroidStudioProjects/todo/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
+gradleHome-0 /Users/aaryamdev1/.gradle

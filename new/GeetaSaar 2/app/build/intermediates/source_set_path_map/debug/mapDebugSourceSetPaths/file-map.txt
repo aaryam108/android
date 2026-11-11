@@ -1,0 +1,7 @@
+com.example.geetasaar.app-pngs-0 /Users/aaryamdev1/Downloads/GeetaSaar 2/app/build/generated/res/pngs/debug
+com.example.geetasaar.app-resValues-1 /Users/aaryamdev1/Downloads/GeetaSaar 2/app/build/generated/res/resValues/debug
+com.example.geetasaar.app-packageDebugResources-2 /Users/aaryamdev1/Downloads/GeetaSaar 2/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.geetasaar.app-packageDebugResources-3 /Users/aaryamdev1/Downloads/GeetaSaar 2/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.geetasaar.app-debug-4 /Users/aaryamdev1/Downloads/GeetaSaar 2/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.geetasaar.app-debug-5 /Users/aaryamdev1/Downloads/GeetaSaar 2/app/src/debug/res
+com.example.geetasaar.app-main-6 /Users/aaryamdev1/Downloads/GeetaSaar 2/app/src/main/res

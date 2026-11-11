@@ -1,0 +1,43 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.dukaanbilling"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="35" />
+10
+11    <application
+11-->/Users/aaryamdev1/Downloads/DukaanBilling 2/app/src/main/AndroidManifest.xml:2:5-15:19
+12        android:allowBackup="true"
+12-->/Users/aaryamdev1/Downloads/DukaanBilling 2/app/src/main/AndroidManifest.xml:3:9-35
+13        android:debuggable="true"
+14        android:extractNativeLibs="false"
+15        android:label="Dukaan Billing"
+15-->/Users/aaryamdev1/Downloads/DukaanBilling 2/app/src/main/AndroidManifest.xml:4:9-39
+16        android:supportsRtl="true"
+16-->/Users/aaryamdev1/Downloads/DukaanBilling 2/app/src/main/AndroidManifest.xml:5:9-35
+17        android:testOnly="true"
+18        android:theme="@android:style/Theme.Material.Light.NoActionBar" >
+18-->/Users/aaryamdev1/Downloads/DukaanBilling 2/app/src/main/AndroidManifest.xml:6:9-72
+19        <activity
+19-->/Users/aaryamdev1/Downloads/DukaanBilling 2/app/src/main/AndroidManifest.xml:7:9-14:20
+20            android:name="com.example.dukaanbilling.MainActivity"
+20-->/Users/aaryamdev1/Downloads/DukaanBilling 2/app/src/main/AndroidManifest.xml:8:13-41
+21            android:exported="true" >
+21-->/Users/aaryamdev1/Downloads/DukaanBilling 2/app/src/main/AndroidManifest.xml:9:13-36
+22            <intent-filter>
+22-->/Users/aaryamdev1/Downloads/DukaanBilling 2/app/src/main/AndroidManifest.xml:10:13-13:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->/Users/aaryamdev1/Downloads/DukaanBilling 2/app/src/main/AndroidManifest.xml:11:17-69
+23-->/Users/aaryamdev1/Downloads/DukaanBilling 2/app/src/main/AndroidManifest.xml:11:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->/Users/aaryamdev1/Downloads/DukaanBilling 2/app/src/main/AndroidManifest.xml:12:17-77
+25-->/Users/aaryamdev1/Downloads/DukaanBilling 2/app/src/main/AndroidManifest.xml:12:27-74
+26            </intent-filter>
+27        </activity>
+28    </application>
+29
+30</manifest>

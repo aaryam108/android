@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#151816"
+    android:padding="22dp">
+
+    <!-- HEADER -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="STOIC COMPANION"
+        android:textColor="#C9A96E"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:letterSpacing="0.18"/>
+
+    <!-- TITLE -->
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:text="Journal History"
+        android:textColor="#F1F0E9"
+        android:textSize="29sp"
+        android:textStyle="bold"/>
+
+    <!-- DESCRIPTION -->
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Your thoughts, lessons and reflections."
+        android:textColor="#AEB6AF"
+        android:textSize="14sp"/>
+
+    <!-- SECTION LABEL -->
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="12dp"
+        android:text="PREVIOUS REFLECTIONS"
+        android:textColor="#C9A96E"
+        android:textSize="11sp"
+        android:textStyle="bold"
+        android:letterSpacing="0.12"/>
+
+    <!-- JOURNAL LIST -->
+
+    <ListView
+        android:id="@+id/journalList"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@android:color/transparent"
+        android:divider="#151816"
+        android:dividerHeight="10dp"
+        android:clipToPadding="false"
+        android:paddingBottom="12dp"/>
+
+    <!-- EMPTY STATE -->
+
+    <TextView
+        android:id="@+id/emptyText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="No reflections yet.\n\nBegin writing your first Stoic reflection."
+        android:textColor="#AEB6AF"
+        android:textSize="16sp"
+        android:lineSpacingExtra="6dp"
+        android:visibility="gone"/>
+
+    <!-- FOOTER -->
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="12dp"
+        android:text="Reflect. Learn. Improve."
+        android:textColor="#778078"
+        android:textSize="12sp"/>
+
+</LinearLayout>

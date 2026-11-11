@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#151816"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="22dp">
+
+        <!-- App Name -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="STOIC COMPANION"
+            android:textColor="#C9A96E"
+            android:textSize="13sp"
+            android:textStyle="bold"
+            android:letterSpacing="0.15" />
+
+        <!-- Main Heading -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="18dp"
+            android:text="Live with\nintention."
+            android:textColor="#F1F0E9"
+            android:textSize="36sp"
+            android:textStyle="bold"
+            android:lineSpacingExtra="4dp" />
+
+        <!-- Date -->
+        <TextView
+            android:id="@+id/dateText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:text="Monday, 10 November 2026"
+            android:textColor="#AEB6AF"
+            android:textSize="14sp" />
+
+        <!-- Daily Quote Card -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="28dp"
+            android:background="@drawable/card_bg"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="DAILY STOIC WISDOM"
+                android:textColor="#C9A96E"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                android:letterSpacing="0.1" />
+
+            <TextView
+                android:id="@+id/quoteText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="You have power over your mind — not outside events."
+                android:textColor="#F1F0E9"
+                android:textSize="20sp"
+                android:lineSpacingExtra="5dp" />
+
+            <TextView
+                android:id="@+id/authorText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="14dp"
+                android:text="— Marcus Aurelius"
+                android:textColor="#C9A96E"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <!-- Reflection Prompt -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="28dp"
+            android:text="TODAY'S REFLECTION"
+            android:textColor="#C9A96E"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:letterSpacing="0.1" />
+
+        <TextView
+            android:id="@+id/promptText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="What is within your control today?"
+            android:textColor="#F1F0E9"
+            android:textSize="18sp"
+            android:lineSpacingExtra="4dp" />
+
+        <!-- Journal Heading -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="28dp"
+            android:text="EVENING JOURNAL"
+            android:textColor="#C9A96E"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:letterSpacing="0.1" />
+
+        <!-- Journal Input -->
+        <EditText
+            android:id="@+id/journalInput"
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            android:layout_marginTop="12dp"
+            android:background="@drawable/card_bg"
+            android:gravity="top|start"
+            android:hint="Reflect on your thoughts, actions and decisions..."
+            android:padding="16dp"
+            android:textColor="#F1F0E9"
+            android:textColorHint="#778078"
+            android:textSize="15sp"
+            android:inputType="textMultiLine|textCapSentences"
+            android:scrollbars="vertical" />
+
+        <!-- Save Button -->
+        <Button
+            android:id="@+id/saveButton"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:layout_marginTop="18dp"
+            android:backgroundTint="#C9A96E"
+            android:text="Save Reflection"
+            android:textAllCaps="false"
+            android:textColor="#151816"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <!-- Journal History Button -->
+        <Button
+            android:id="@+id/historyButton"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:layout_marginTop="12dp"
+            android:backgroundTint="#303831"
+            android:text="View Journal History"
+            android:textAllCaps="false"
+            android:textColor="#C9A96E"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <!-- Four Stoic Virtues -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:text="THE FOUR STOIC VIRTUES"
+            android:textColor="#C9A96E"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:letterSpacing="0.1" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="14dp"
+            android:text="01   Wisdom\n\n02   Courage\n\n03   Justice\n\n04   Temperance"
+            android:textColor="#F1F0E9"
+            android:textSize="16sp"
+            android:lineSpacingExtra="5dp" />
+
+        <!-- Footer -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:gravity="center"
+            android:text="Reflect. Learn. Improve."
+            android:textColor="#778078"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+
+</ScrollView>

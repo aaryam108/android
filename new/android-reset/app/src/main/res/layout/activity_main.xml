@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="#0B1120"
+    android:padding="24dp"
+
+    >
+
+    <!-- APP TITLE -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RESET."
+        android:textColor="#FFFFFF"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:letterSpacing="0.3"
+        android:layout_marginTop="35dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="A MOMENT FOR YOURSELF"
+        android:textColor="#8E9AAA"
+        android:textSize="11sp"
+        android:letterSpacing="0.2"
+        android:layout_marginTop="8dp"/>
+
+    <!-- BREATHING CIRCLE -->
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center">
+
+        <View
+            android:id="@+id/breathingCircle"
+            android:layout_width="190dp"
+            android:layout_height="190dp"
+            android:layout_gravity="center"
+            android:background="@drawable/breathing_circle"/>
+
+        <TextView
+            android:id="@+id/breathingText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Ready to breathe"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textStyle="normal"/>
+
+    </FrameLayout>
+
+    <!-- SESSION TIMER -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SESSION"
+        android:textColor="#8794A6"
+        android:textSize="11sp"
+        android:letterSpacing="0.3"/>
+
+    <TextView
+        android:id="@+id/timerText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="00:00"
+        android:textColor="#FFFFFF"
+        android:textSize="28sp"
+        android:layout_marginTop="8dp"/>
+
+    <!-- START BUTTON -->
+
+    <Button
+        android:id="@+id/startButton"
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        android:text="START BREATHING"
+        android:textColor="#0B1120"
+        android:textStyle="bold"
+        android:backgroundTint="#72D6D0"
+        android:layout_marginTop="28dp"/>
+
+    <!-- RESET BUTTON -->
+
+    <Button
+        android:id="@+id/resetButton"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:text="RESET SESSION"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#26344A"
+        android:layout_marginTop="12dp"/>
+
+    <!-- FOOTER -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SLOW DOWN. LET GO. BEGIN AGAIN."
+        android:textColor="#8794A6"
+        android:textSize="10sp"
+        android:letterSpacing="0.15"
+        android:layout_marginTop="25dp"
+        android:layout_marginBottom="15dp"/>
+
+</LinearLayout>

@@ -1,0 +1,4 @@
+#Wed Nov 11 00:28:39 IST 2026
+base.0=/Users/aaryamdev1/Downloads/VinylPlayer 3/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

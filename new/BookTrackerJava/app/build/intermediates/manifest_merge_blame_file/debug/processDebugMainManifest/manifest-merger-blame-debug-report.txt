@@ -1,0 +1,40 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.booktracker"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="35" />
+10
+11    <application
+11-->/Users/aaryamdev1/Downloads/BookTrackerJava/app/src/main/AndroidManifest.xml:2:5-12:19
+12        android:allowBackup="true"
+12-->/Users/aaryamdev1/Downloads/BookTrackerJava/app/src/main/AndroidManifest.xml:3:9-35
+13        android:debuggable="true"
+14        android:extractNativeLibs="false"
+15        android:label="Book Tracker"
+15-->/Users/aaryamdev1/Downloads/BookTrackerJava/app/src/main/AndroidManifest.xml:4:9-37
+16        android:theme="@style/AppTheme" >
+16-->/Users/aaryamdev1/Downloads/BookTrackerJava/app/src/main/AndroidManifest.xml:5:9-40
+17        <activity
+17-->/Users/aaryamdev1/Downloads/BookTrackerJava/app/src/main/AndroidManifest.xml:6:9-11:20
+18            android:name="com.example.booktracker.MainActivity"
+18-->/Users/aaryamdev1/Downloads/BookTrackerJava/app/src/main/AndroidManifest.xml:6:19-47
+19            android:exported="true" >
+19-->/Users/aaryamdev1/Downloads/BookTrackerJava/app/src/main/AndroidManifest.xml:6:48-71
+20            <intent-filter>
+20-->/Users/aaryamdev1/Downloads/BookTrackerJava/app/src/main/AndroidManifest.xml:7:13-10:29
+21                <action android:name="android.intent.action.MAIN" />
+21-->/Users/aaryamdev1/Downloads/BookTrackerJava/app/src/main/AndroidManifest.xml:8:17-68
+21-->/Users/aaryamdev1/Downloads/BookTrackerJava/app/src/main/AndroidManifest.xml:8:25-66
+22
+23                <category android:name="android.intent.category.LAUNCHER" />
+23-->/Users/aaryamdev1/Downloads/BookTrackerJava/app/src/main/AndroidManifest.xml:9:17-76
+23-->/Users/aaryamdev1/Downloads/BookTrackerJava/app/src/main/AndroidManifest.xml:9:27-74
+24            </intent-filter>
+25        </activity>
+26    </application>
+27
+28</manifest>

@@ -1,0 +1,61 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.vinylplayer"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+11-->/Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:2:5-77
+11-->/Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:2:22-74
+12    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
+12-->/Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:3:5-92
+12-->/Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:3:22-89
+13    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+13-->/Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:4:5-77
+13-->/Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:4:22-74
+14
+15    <application
+15-->/Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:5:5-20:19
+16        android:allowBackup="true"
+16-->/Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:8:9-35
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+19        android:label="Vinyl Player"
+19-->/Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:7:9-37
+20        android:supportsRtl="true"
+20-->/Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:9:9-35
+21        android:theme="@style/AppTheme" >
+21-->/Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:6:9-40
+22        <activity
+22-->/Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:10:9-15:20
+23            android:name="com.example.vinylplayer.MainActivity"
+23-->/Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:10:19-47
+24            android:exported="true" >
+24-->/Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:10:48-71
+25            <intent-filter>
+25-->/Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:11:13-14:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->/Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:12:17-69
+26-->/Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:12:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->/Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:13:17-77
+28-->/Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:13:27-74
+29            </intent-filter>
+30        </activity>
+31
+32        <service
+32-->/Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:16:9-19:61
+33            android:name="com.example.vinylplayer.PlaybackService"
+33-->/Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:17:13-44
+34            android:exported="false"
+34-->/Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:18:13-37
+35            android:foregroundServiceType="mediaPlayback" />
+35-->/Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:19:13-58
+36    </application>
+37
+38</manifest>

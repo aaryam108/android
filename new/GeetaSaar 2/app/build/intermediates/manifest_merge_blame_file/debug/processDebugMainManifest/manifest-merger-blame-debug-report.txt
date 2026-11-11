@@ -1,0 +1,46 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.geetasaar"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/aaryamdev1/Downloads/GeetaSaar 2/app/src/main/AndroidManifest.xml:2:5-66
+11-->/Users/aaryamdev1/Downloads/GeetaSaar 2/app/src/main/AndroidManifest.xml:2:22-64
+12
+13    <application
+13-->/Users/aaryamdev1/Downloads/GeetaSaar 2/app/src/main/AndroidManifest.xml:3:5-14:19
+14        android:allowBackup="true"
+14-->/Users/aaryamdev1/Downloads/GeetaSaar 2/app/src/main/AndroidManifest.xml:6:9-35
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:label="Geeta Saar"
+17-->/Users/aaryamdev1/Downloads/GeetaSaar 2/app/src/main/AndroidManifest.xml:5:9-35
+18        android:supportsRtl="true"
+18-->/Users/aaryamdev1/Downloads/GeetaSaar 2/app/src/main/AndroidManifest.xml:7:9-35
+19        android:theme="@style/AppTheme" >
+19-->/Users/aaryamdev1/Downloads/GeetaSaar 2/app/src/main/AndroidManifest.xml:4:9-40
+20        <activity
+20-->/Users/aaryamdev1/Downloads/GeetaSaar 2/app/src/main/AndroidManifest.xml:8:9-13:20
+21            android:name="com.example.geetasaar.MainActivity"
+21-->/Users/aaryamdev1/Downloads/GeetaSaar 2/app/src/main/AndroidManifest.xml:8:19-47
+22            android:exported="true" >
+22-->/Users/aaryamdev1/Downloads/GeetaSaar 2/app/src/main/AndroidManifest.xml:8:48-71
+23            <intent-filter>
+23-->/Users/aaryamdev1/Downloads/GeetaSaar 2/app/src/main/AndroidManifest.xml:9:13-12:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->/Users/aaryamdev1/Downloads/GeetaSaar 2/app/src/main/AndroidManifest.xml:10:17-68
+24-->/Users/aaryamdev1/Downloads/GeetaSaar 2/app/src/main/AndroidManifest.xml:10:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->/Users/aaryamdev1/Downloads/GeetaSaar 2/app/src/main/AndroidManifest.xml:11:17-76
+26-->/Users/aaryamdev1/Downloads/GeetaSaar 2/app/src/main/AndroidManifest.xml:11:27-74
+27            </intent-filter>
+28        </activity>
+29    </application>
+30
+31</manifest>

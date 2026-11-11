@@ -1,0 +1,55 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml:1:1-15:12
+	package
+		INJECTED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml:2:5-67
+	android:name
+		ADDED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml:2:22-64
+application
+ADDED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml:3:5-14:19
+INJECTED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml:3:5-14:19
+	android:extractNativeLibs
+		INJECTED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml
+	android:label
+		ADDED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml:5:9-37
+	android:allowBackup
+		ADDED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml:4:9-35
+	android:theme
+		ADDED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml:6:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml:7:9-45
+activity#com.example.plantspedia.MainActivity
+ADDED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml:8:9-13:20
+	android:exported
+		ADDED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml:8:48-71
+	android:name
+		ADDED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml:8:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml:9:13-12:29
+action#android.intent.action.MAIN
+ADDED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml:10:17-69
+	android:name
+		ADDED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml:10:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml:11:17-77
+	android:name
+		ADDED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml:11:27-74
+uses-sdk
+INJECTED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml
+INJECTED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/aaryamdev1/Downloads/PlantsPedia 8/app/src/main/AndroidManifest.xml

@@ -1,0 +1,4 @@
+com.example.dukaanbilling.test.app-androidTest-0 /Users/aaryamdev1/Downloads/DukaanBilling 2/app/build/generated/res/resValues/androidTest/debug
+com.example.dukaanbilling.test.app-mergeDebugAndroidTestResources-1 /Users/aaryamdev1/Downloads/DukaanBilling 2/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.dukaanbilling.test.app-mergeDebugAndroidTestResources-2 /Users/aaryamdev1/Downloads/DukaanBilling 2/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.dukaanbilling.test.app-debugAndroidTest-3 /Users/aaryamdev1/Downloads/DukaanBilling 2/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-debug-37:/layout_activity_main.xml.flat",
+        "source": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-debug-37:/drawable_colors.xml.flat",
+        "source": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-main-39:/drawable/colors.xml"
+    },
+    {
+        "merged": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-debug-37:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-main-39:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-debug-37:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-main-39:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-debug-37:/drawable_breathing_circle.xml.flat",
+        "source": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-main-39:/drawable/breathing_circle.xml"
+    },
+    {
+        "merged": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-debug-37:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-main-39:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-debug-37:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-main-39:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-debug-37:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-main-39:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-debug-37:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-main-39:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-debug-37:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-main-39:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-debug-37:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-debug-37:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-main-39:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-debug-37:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-main-39:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-debug-37:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-main-39:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.reset.app-debug-37:/layout_activity_main.xml.flat",
+        "source": "com.example.reset.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-debug-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-main-39:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-debug-37:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-main-39:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-debug-37:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-main-39:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-debug-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-main-39:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-debug-37:/xml_backup_rules.xml.flat",
+        "source": "/Users/aaryamdev1/.gradle/daemon/9.8.2/com.example.reset.app-main-39:/xml/backup_rules.xml"
+    }
+]

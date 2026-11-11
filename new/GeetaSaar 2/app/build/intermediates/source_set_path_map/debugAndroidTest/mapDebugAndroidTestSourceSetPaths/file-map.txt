@@ -1,0 +1,4 @@
+com.example.geetasaar.test.app-androidTest-0 /Users/aaryamdev1/Downloads/GeetaSaar 2/app/build/generated/res/resValues/androidTest/debug
+com.example.geetasaar.test.app-mergeDebugAndroidTestResources-1 /Users/aaryamdev1/Downloads/GeetaSaar 2/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.geetasaar.test.app-mergeDebugAndroidTestResources-2 /Users/aaryamdev1/Downloads/GeetaSaar 2/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.geetasaar.test.app-debugAndroidTest-3 /Users/aaryamdev1/Downloads/GeetaSaar 2/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

@@ -1,0 +1,8 @@
+com.example.reset.app-pngs-0 /Users/aaryamdev1/Desktop/dsainjava/android-reset/app/build/generated/res/pngs/debug
+com.example.reset.app-updated_navigation_xml-1 /Users/aaryamdev1/Desktop/dsainjava/android-reset/app/build/generated/updated_navigation_xml/debug
+com.example.reset.app-packageDebugResources-2 /Users/aaryamdev1/Desktop/dsainjava/android-reset/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.reset.app-packageDebugResources-3 /Users/aaryamdev1/Desktop/dsainjava/android-reset/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.reset.app-debug-4 /Users/aaryamdev1/Desktop/dsainjava/android-reset/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.reset.app-debug-5 /Users/aaryamdev1/Desktop/dsainjava/android-reset/app/src/debug/res
+com.example.reset.app-main-6 /Users/aaryamdev1/Desktop/dsainjava/android-reset/app/src/main/res
+gradleHome-0 /Users/aaryamdev1/.gradle

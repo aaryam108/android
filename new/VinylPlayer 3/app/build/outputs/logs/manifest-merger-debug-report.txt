@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:1:1-21:12
+	package
+		INJECTED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:2:5-77
+	android:name
+		ADDED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:2:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK
+ADDED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:3:5-92
+	android:name
+		ADDED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:3:22-89
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:4:5-77
+	android:name
+		ADDED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:4:22-74
+application
+ADDED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:5:5-20:19
+INJECTED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:5:5-20:19
+	android:extractNativeLibs
+		INJECTED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml
+	android:supportsRtl
+		ADDED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:7:9-37
+	android:allowBackup
+		ADDED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:6:9-40
+activity#com.example.vinylplayer.MainActivity
+ADDED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:10:9-15:20
+	android:exported
+		ADDED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:10:48-71
+	android:name
+		ADDED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:10:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:11:13-14:29
+action#android.intent.action.MAIN
+ADDED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:13:17-77
+	android:name
+		ADDED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:13:27-74
+service#com.example.vinylplayer.PlaybackService
+ADDED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:16:9-19:61
+	android:exported
+		ADDED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:18:13-37
+	android:foregroundServiceType
+		ADDED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:19:13-58
+	android:name
+		ADDED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml:17:13-44
+uses-sdk
+INJECTED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml
+INJECTED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/AndroidManifest.xml

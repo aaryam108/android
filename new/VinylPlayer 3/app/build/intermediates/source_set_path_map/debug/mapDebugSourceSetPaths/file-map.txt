@@ -1,0 +1,7 @@
+com.example.vinylplayer.app-pngs-0 /Users/aaryamdev1/Downloads/VinylPlayer 3/app/build/generated/res/pngs/debug
+com.example.vinylplayer.app-resValues-1 /Users/aaryamdev1/Downloads/VinylPlayer 3/app/build/generated/res/resValues/debug
+com.example.vinylplayer.app-packageDebugResources-2 /Users/aaryamdev1/Downloads/VinylPlayer 3/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.vinylplayer.app-packageDebugResources-3 /Users/aaryamdev1/Downloads/VinylPlayer 3/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.vinylplayer.app-debug-4 /Users/aaryamdev1/Downloads/VinylPlayer 3/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.vinylplayer.app-debug-5 /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/debug/res
+com.example.vinylplayer.app-main-6 /Users/aaryamdev1/Downloads/VinylPlayer 3/app/src/main/res
